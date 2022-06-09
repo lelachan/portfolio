@@ -1,0 +1,24 @@
+@import url(https://fonts.googleapis.com/css?family=Yellowtail);
+
+@import url('https://fonts.googleapis.com/css?family=Gochi+Hand|Roboto:700');
+
+body{
+  background-color: #fedcda;
+}
+
+h1{
+  text-align: center;
+  font-size: 80px;
+  font-family: 'Yellowtail', cursive; 
+  color: #cd5360;
+  
+}
+
+ul li{
+  color: #cd5360;
+  font-family: 'Gochi Hand', cursive;
+  font-size: 35px;
+  padding-top: 5%;
+  text-align: center;
+  list-style: none;
+}

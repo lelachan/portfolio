@@ -3,7 +3,7 @@
 @import url('https://fonts.googleapis.com/css?family=Gochi+Hand|Roboto:700');
 
 body{
-  background-color: #fedcda;
+  background-color: white;
 }
 
 h1{
@@ -12,6 +12,13 @@ h1{
   font-family: 'Yellowtail', cursive; 
   color: #cd5360;
   
+}
+
+p{
+  font-size:16px;
+  font-weight: bold;
+  font-family: 'Monospace', monospace;
+  color: #233237;
 }
 
 ul li{

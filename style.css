@@ -36,6 +36,7 @@ i{
 }
 
 button{
-  margin-top:250px;
+  z-index: 1;
+  margin-top:170px;
   margin-left: 50px;
 }
